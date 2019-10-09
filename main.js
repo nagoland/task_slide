@@ -23,3 +23,6 @@ setInterval(function(){
             },fadeOutTime)
 
 }, intervalTime)
+
+// テスト
+console.log("ポテト")
